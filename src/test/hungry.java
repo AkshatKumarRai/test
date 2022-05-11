@@ -2,7 +2,7 @@ package test;
 
 public class hungry {
 	public static void main(String[] args) {
-		String str1="akshat";
+		String str1="akshat kumar rai";
 		String str2="";
 		int size=str1.length();
 		
